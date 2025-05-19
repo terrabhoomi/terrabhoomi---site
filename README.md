@@ -1,2 +1,2 @@
 # terrabhoomi---site
-Official website of Terrabhoomj
+Official website of Terrabhoomi
